@@ -21,7 +21,8 @@ A simple and intuitive **Django app** designed to collect user feedback. It feat
 - **Django**: Web framework for building the app.
 
 ### 🎨 Screenshot Preview
-![Screenshot](path_to_screenshot.png)
+![Screenshot](<img width="1274" height="631" alt="image" src="https://github.com/user-attachments/assets/df28481d-e88d-49fc-adb2-f4191409f5d9" />
+)
 ---
 
 Thank you for checking out **Feedback Collector**! ✨
